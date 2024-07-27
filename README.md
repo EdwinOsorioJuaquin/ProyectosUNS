@@ -1,4 +1,4 @@
-# Proyecto Reconocimiento Facial [Team Armas-Estefanero-Osorio-Roja]
+# Proyecto Reconocimiento Facial [Team Armas-Estefanero-Osorio-Rojas]
 
 Implementaremos una red neuronal usando keras-tensorflow y la ejecutaremos en un servicio web de flask
 
