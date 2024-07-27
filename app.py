@@ -22,7 +22,7 @@ names = ['Alfredo_Daza','Brando_Armas','Edwin_Osorio','Emanuel_Rojas','Jael_Este
 app = Flask(__name__)
 
 # Path del modelo preentrenado
-MODEL_PATH = 'models/model_RS50.h5'
+MODEL_PATH = 'models/modelo_final_CNN.h5'
 
 # Cargamos el modelo preentrenado
 model = load_model(MODEL_PATH)
