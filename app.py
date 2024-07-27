@@ -16,8 +16,7 @@ import cv2
 width_shape = 224
 height_shape = 224
 
-names = ['AFRICAN FIREFINCH','ALBATROSS','ALEXANDRINE PARAKEET','AMERICAN AVOCET','AMERICAN BITTERN',
-         'AMERICAN COOT','AMERICAN GOLDFINCH','AMERICAN KESTREL','AMERICAN PIPIT','AMERICAN REDSTART']
+names = ['Alfredo_Daza','Brando_Armas','Edwin_Osorio','Emanuel_Rojas','Jael_Estefanero']
 
 # Definimos una instancia de Flask
 app = Flask(__name__)
